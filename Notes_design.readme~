@@ -1,0 +1,5 @@
+Modèle
+question->Choix[vote]
+
+Views
+Liste de Questions->Detail Question->Vote->results
